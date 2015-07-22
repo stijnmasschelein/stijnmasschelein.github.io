@@ -35,4 +35,6 @@ The problem with this approach (besides neglecting
 diminishing returns), is that firms will try to optimise
 value or less optimistically firms that make bad choices
 will disappear. The best choices are not to difficult too
-determine. 
+determine.
+
+\\[ \beta \\]
