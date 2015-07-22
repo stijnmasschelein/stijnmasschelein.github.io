@@ -32,9 +32,19 @@ b<sub>1</sub>x<sub>1</sub> + b<sub>2</sub>x<sub>2</sub> +
 b<sub>3</sub>x<sub>1</sub>x<sub>2</sub> + e
 
 The problem with this approach (besides neglecting
-diminishing returns), is that firms will try to optimise
+diminishing returns[^ds]), is that firms will try to optimise
 value or less optimistically firms that make bad choices
 will disappear. The best choices are not to difficult too
 determine.
 
-\\[ \beta \\]
+[^ds]: 
+	This is actually more complicated and I will
+	probably revisit this later on. Often the y in the
+	regression will not be the value of the firm but the
+	performance of a division or employee. In that case,
+	neglect of the diminishing return can be less of an
+	issue. The diminishing returns can often be
+	assumed to be mostly driven by the fact that the
+	cost of better performance measurement or incentives
+	increases very fast than that the accounting
+	techniques become less effective at the margin. 
